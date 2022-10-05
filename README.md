@@ -8,3 +8,7 @@ Vanilla browser is made entirely with python and pyqt5. It needs a little bit im
 
 # License
 MIT, see LICENSE for details
+
+# Non-Python users
+
+Reach me out on discord (Ignis#3040), to get an exe file.
